@@ -6,13 +6,13 @@ const skillCategories = [
   {
     icon: Code,
     title: "Languages",
-    skills: ["C/C++", "Python", "JS/TS", "C#", "Java", "Kotlin"],
+    skills: ["C/C++", "Python", "JS/TS", "C#", "Java", "Kotlin", "Go"],
     color: "bg-cyan/20 text-cyan",
   },
   {
     icon: Globe,
     title: "Web Development",
-    skills: ["React", "NestJS", "Express", "Tailwind", "Redux", "Zod"],
+    skills: ["React", "NextJS", "NestJS", "Express", "Tailwind", "Redux", "Zod"],
     color: "bg-pink/20 text-pink",
   },
   {
